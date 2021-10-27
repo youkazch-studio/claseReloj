@@ -1,0 +1,5 @@
+F:\imagenes\UGB\programacion computacional\claseReloj\claseReloj\obj\Debug\claseReloj.csproj.AssemblyReference.cache
+F:\imagenes\UGB\programacion computacional\claseReloj\claseReloj\obj\Debug\claseReloj.Form1.resources
+F:\imagenes\UGB\programacion computacional\claseReloj\claseReloj\obj\Debug\claseReloj.Properties.Resources.resources
+F:\imagenes\UGB\programacion computacional\claseReloj\claseReloj\obj\Debug\claseReloj.csproj.GenerateResource.cache
+F:\imagenes\UGB\programacion computacional\claseReloj\claseReloj\obj\Debug\claseReloj.csproj.CoreCompileInputs.cache
